@@ -4,20 +4,22 @@
 <p align="center">
   <!-- Aqui você pode colocar um banner personalizado (1200x300px recomendado). -->
   <!-- Substitua USERNAME pelo seu nome de usuário no caminho da imagem -->
-  <img src="https://raw.githubusercontent.com/arttyatk/arttyatk/main/download.jpg" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/arttyatk/arttyatk/main/download (1).jpg" alt="banner" width="60%" />
 </p>
 
-<h1 align="center">Prazer, eu sou <strong>arttyatk</strong></h1>
+<h1 align="center">Prazer eu sou, <span style="font-weight: bold; color:rgb(138,43,226)">arttyatk!</span></h1>
+
+ 
 <p align="center">
   <!-- ROLE = seu cargo ou área principal -->
-  <em>ROLE • Desenvolvedor • Entusiasta de tecnologia</em>
+  <em>Desenvolvedor Backend • Entusiasta de tecnologia</em>
 </p>
 
 <p align="center">
   <!-- BADGES: Troque USERNAME em cada URL -->
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/arttyatk?label=Seguidores&style=flat-square" />
   <img alt="Repos" src="https://img.shields.io/github/repo-size/arttyatk/arttyatk?style=flat-square" />
-  <img alt="Top language" src="https://img.shields.io/github/languages/top/arttyatk/REPO?style=flat-square" />
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/arttyatk/crimsonstar?style=flat-square" />
   <!-- No badge acima troque REPO pelo nome de um repositório seu -->
   <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20work-brightgreen?style=flat-square" />
   <!-- Você pode mudar o texto depois de Status= -->
@@ -25,8 +27,8 @@
 
 ---
 
-# 📌 Sobre mim
-<!-- Escreva aqui um pequeno resumo pessoal -->
+<h2 align="center">📌 Sobre mim</h2>
+
 Sou um(a) desenvolvedor(a) com interesse em construir soluções sólidas e limpas, ao mesmo tempo que curto a estética e a criatividade do mundo anime. Misturo profissionalismo com referências visuais (ilustrações, paletas de cor, e GIFs sutis) para dar personalidade aos meus projetos.
 
 **Principais áreas:**  
@@ -42,7 +44,7 @@ Sou um(a) desenvolvedor(a) com interesse em construir soluções sólidas e limp
 <!-- Edite as tecnologias conforme sua stack real -->
 | Frontend | Backend | DevOps / Tools |
 |---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="50px" height="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="50px" height="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" height="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="50px" height="50px"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px" height="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50px" height="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50px" height="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" height="50px"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50px" height="50px"/> • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" height="60px" width="60px"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="50px" height="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="50px" height="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" height="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="50px" height="50px"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px" height="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50px" height="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50px" height="50px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" height="50px"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50px" height="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="50px" height="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50px" height="50px"/>|
 
 ---
 
@@ -65,31 +67,15 @@ Sou um(a) desenvolvedor(a) com interesse em construir soluções sólidas e limp
 
 # 🎧 O que estou ouvindo / lendo
 <!-- Essa parte é opcional. Pode atualizar manualmente quando quiser -->
-- Música: *nome da banda / playlist*  
-- Anime/Light Novel: *nome do anime* — breve comentário  
+- Música: *Voices In My Head - Falling in Reverse*  
+- Anime/Light Novel: *Shadow Slave & Omniscient Reader's Viewpoint* — Obras de arte muito bem construídas.. 
 
 ---
 
 # 📫 Contato
 <!-- Atualize com seus links reais -->
-- Email: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)  
+- Email: [arthurmartins1810@gmail.com](mailto:seu.email@exemplo.com)  
 - LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/USERNAME)  
-- Twitter: [@SeuHandle](https://twitter.com/SeuHandle)  
+- Twitter: [@arttyatk](https://twitter.com/arttyatk)  
 
 ---
-
-# 🧩 Dicas de personalização
-<!-- Esta parte é só informativa, pode excluir depois -->
-1. Substitua o banner por uma imagem 1200×300px com uma estética profissional + anime.  
-2. Adicione um GIF pequeno (ex.: um personagem piscando) para dar movimento.  
-3. Escolha um tema consistente para badges e cards (`tokyonight` combina com vibe anime).  
-4. Adicione ícones SVG minimalistas nos títulos (por exemplo, 🎨, ⚡, 💻).  
-
----
-
-# ✅ Como publicar
-<!-- Passo-a-passo simplificado -->
-1. Crie um repositório com o mesmo nome do seu usuário (`USERNAME/USERNAME`).  
-2. Faça upload deste `README.md` (e do banner se tiver).  
-3. Commit & push.  
-4. Vá no seu perfil e veja o resultado!  
