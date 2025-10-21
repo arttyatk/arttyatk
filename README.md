@@ -64,12 +64,6 @@ Sou um(a) desenvolvedor(a) com interesse em construir soluções sólidas e limp
 </div>
 
 ---
-
-# 🎧 O que estou ouvindo / lendo
-<!-- Essa parte é opcional. Pode atualizar manualmente quando quiser -->
-- Música: *Voices In My Head - Falling in Reverse*  
-- Anime/Light Novel: *Shadow Slave & Omniscient Reader's Viewpoint* — Obras de arte muito bem construídas.. 
-
 ---
 
 # 📫 Contato
