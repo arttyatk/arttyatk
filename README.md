@@ -29,18 +29,21 @@
 
 <h2 align="center">📌 Sobre mim</h2>
 
-Sou um(a) desenvolvedor(a) com interesse em construir soluções sólidas e limpas, ao mesmo tempo que curto a estética e a criatividade do mundo anime. Misturo profissionalismo com referências visuais (ilustrações, paletas de cor, e GIFs sutis) para dar personalidade aos meus projetos.
+Sou um desenvolvedor com grande interesse em resolver e propor soluções diversificadas que possam atingir diversos problemas diferentes, exploro temas criativos e que possam interagir de forma lúdica, onde expressam um potencial de intervir como soluções de forma mais dinâmica.
 
 **Principais áreas:**  
 - Desenvolvimento web (Frontend / Backend)  
 - APIs e integrações  
 - Requisições JQuery Ajax
 - Gerenciamento MySql
-- Uso de frameworks   
+- Uso de frameworks
+- Planilhas Excel
+- Macro Excel
+- Dashboards (PowerBI)  
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Ferramentas de Trabalho
 <!-- Edite as tecnologias conforme sua stack real -->
 | Frontend | Backend | DevOps / Tools |
 |---|---|---|
