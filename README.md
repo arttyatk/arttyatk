@@ -53,7 +53,8 @@ Sou um desenvolvedor com grande interesse em resolver e propor soluções divers
 
 # ✨ Projetos em destaque
 <!-- Substitua os exemplos pelos seus projetos -->
-- **Crimson Star** — Sistema de gacha API Laravel + requisição JQuery ([link](https://github.com/arttyatk/crimsonstar))  
+- **Crimson Star** — Sistema de gacha API Laravel + requisição JQuery ([link](https://github.com/arttyatk/crimsonstar))
+- **Crimson Star** — Sistema de gacha API (Requisição JQuery) ([link](https://github.com/arttyatk/crimsonreq))  
 - **Crimson Star (mobile)** — Sistema de gacha (apenas visual do mobile) ([link](https://github.com/arttyatk/crimsonmob))  
 
 ---
